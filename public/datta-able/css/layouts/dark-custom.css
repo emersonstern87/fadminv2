@@ -1,0 +1,114 @@
+body {
+  color: #adb7be;
+  background: #1e1f20;
+}
+.table thead th {
+    border-bottom: 1px solid #eaeaea;
+    color: #a5b7be;
+}
+.table th, .table thead th, .table-bordered td, .table-bordered th {
+    background: #323437;
+}
+.card.project-task.bg-c-blue {
+    border: 1px solid #00000021 !important;
+}
+.theme-bg2 {
+	width: 95%;
+}
+.custom-select, .form-control, .dataTables_filter input, .dataTables_length select {
+    border: 1px solid #1a1a1c;
+    background: #282a2c;
+    color: #adb7be;
+}
+.paginate_button.disabled {
+    background-color: #212224;
+    border-color: #dee2e64f;
+}
+.paginate_button.current {
+    color: #212224 !important;
+}
+.ranges {
+	margin: 0px;
+}
+.daterangepicker{
+	border: none;
+}
+.daterangepicker.ltr .ranges {
+    background: #282a2c;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.daterangepicker:after {
+    top: -2px;
+    border-bottom: 6px solid #282a2c;
+}
+.daterangepicker:before {
+    top: -3px !important;
+    border-bottom: 7px solid #282a2c !important;
+}
+.select2-dropdown {
+	background-color: #282a2c;
+    border: 1px solid #212224;
+}
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    border: 1px solid #212224;
+    background: #323437;
+}
+.select2-container--default .select2-results__option[aria-selected=true] {
+	background-color: #323437;
+}
+h5.text-white.mb-2.head_title {
+    color: #adb7be !important;
+}
+h5.text-white.mb-2.f-w-300.f-16 strong {
+	color: #adb7be !important;
+}
+.bg-c-yellow {
+    background: #323437 !important;
+}
+.bg-c-red {
+	background: #323437 !important;
+    min-height: 174px;
+}
+.daterangepicker .calendar-table {
+    border: 1px solid #1a1a1c;
+    background-color: #282a2c;
+}
+.daterangepicker .input-mini.active {
+    border: 1px solid #1a1a1c;
+    border-radius: 4px;
+    color: #adb7be;
+}
+.daterangepicker .input-mini{
+	border: 1px solid #1a1a1c;
+}
+.status-border {
+    border: 1px solid #1a1a1c;
+}
+.bootstrap-select>.dropdown-toggle {
+    border: 1px solid #212224;
+}
+.btn-light:not(:disabled):not(.disabled).active, .btn-light:not(:disabled):not(.disabled):active, .show>.btn-light.dropdown-toggle {
+    border-color: #212224;
+}
+.btn-light:hover {
+    border-color: #212224;
+}
+.card.project-task {
+    border: 1px solid #212224 !important;
+}
+.ranges li {
+    background-color: #323437;
+    border: 1px solid #1a1a1c;
+    color: #efefef;
+}
+.form-tabs .select2-container--default .select2-selection--single {
+    border: 1px solid #1a1a1c;
+}
+.nav-tabs .nav-link, .tab-content {
+    box-shadow: none;
+}
+.dropzone-attachments {
+    background-color: rgb(40, 42, 44);
+}
